@@ -17,5 +17,3 @@ setup
 	```
 
 3. Open vim and execute ":BundleInstall" command
-
-这样也行吧
